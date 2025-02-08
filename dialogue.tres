@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="DialogueGraph" load_steps=3 format=3 uid="uid://dbrhp3um5agu3"]
+
+[ext_resource type="Script" uid="uid://c3ckhvl4mnn5r" path="res://addons/dialogue_graph/dialogue_graph.gd" id="1_qxp0s"]
+
+[sub_resource type="Resource" id="Resource_14ixi"]
+
+[resource]
+script = ExtResource("1_qxp0s")
+subresource = SubResource("Resource_14ixi")
+metadata/_custom_type_script = ExtResource("1_qxp0s")
